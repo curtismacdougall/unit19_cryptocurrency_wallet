@@ -1,6 +1,6 @@
 # Unit 19 Fintech Finder 
 ## Purpose
-For this assignment I have created a web app using streamlit allowing users to select a Fintech professional and send them ether as wage. Transactions will be sent from a local network through the use of Ganache. Screenshots have been added below to confirm that everything runs as intended.
+For this assignment I have created a web app using streamlit which allows users to select a Fintech professional and send them ether as a wage. Transactions will be sent from a local network through the use of Ganache. Screenshots have been added below to confirm that everything runs as intended.
 ## Screenshots
 ### Screenshot 1 – streamlit webpage
 ![screenshot_1](https://user-images.githubusercontent.com/85939927/151193616-a632376a-5870-43e3-b7bc-e0026c1f8596.JPG)
